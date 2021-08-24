@@ -1,2 +1,3 @@
 # Hello file added changed new info
-Pull learn
+Pull learning
+Push learning
